@@ -1,0 +1,15 @@
+.body{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 500px;
+    background-color: aqua;
+}
+.display{
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    max-height: 500px;
+    scrollbar-width: thin;
+    scrollbar-color: black;
+}

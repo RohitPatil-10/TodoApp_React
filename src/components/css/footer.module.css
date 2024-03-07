@@ -1,0 +1,21 @@
+.footer{
+    /* background-color: aqua; */
+    height: 98px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    /* padding: 20px; */
+    margin: 0;
+    /* background-color: aqua; */
+}
+.card{
+    /* border: 2px solid red; */
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+    background-color:black;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    color: white;
+    border-radius: 10px;
+}

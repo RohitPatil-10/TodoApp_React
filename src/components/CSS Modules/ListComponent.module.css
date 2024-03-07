@@ -1,0 +1,8 @@
+.item{
+    background-color: gray;
+    border: 2px solid black;
+    /* border-radius: 20px; */
+    text-align: center;
+    color: white;
+    width: 300px;
+}
